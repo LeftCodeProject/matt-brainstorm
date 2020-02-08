@@ -1,0 +1,21 @@
+.header {
+  background-color: pink;
+  height: 10vh;
+}
+
+.logo {
+  height: 8vh;
+}
+
+.site-heading {
+  float: right;
+}
+
+.aim {
+  background-color: pink;
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  margin: 20px auto;
+  color: white;
+}
